@@ -70,7 +70,7 @@
             flex-direction: row;
             align-items: center;
             justify-content: center;
-            margin-left: -6rem;
+            margin-left: -7rem;
             gap: 2.2rem;
             margin-top: -11.5rem;
             animation: pulse 1.2s infinite;
@@ -86,14 +86,14 @@
             flex-direction: row;
             align-items: center;
             justify-content: center;
-            margin-left: 6.1rem;
+            margin-left: 7.1rem;
             gap: 2.2rem;
             margin-top: -8.3rem;
             animation: pulse 1.2s infinite;
 
         }
         .icones1 img { /* Supondo que os ícones sejam imagens */
-            width: 7rem; /* Ajuste para o tamanho desejado */
+            width: 6.5rem; /* Ajuste para o tamanho desejado */
             height: auto; /* Mantém a proporção */
             transform: scale(0.8); /* Reduz o tamanho em 20% */            
         }
