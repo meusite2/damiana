@@ -72,11 +72,11 @@
             justify-content: center;
             margin-left: -6rem;
             gap: 2.2rem;
-            margin-top: -10.5rem;
+            margin-top: -11.5rem;
             animation: pulse 1.2s infinite;
         }
         .icones img { /* Supondo que os ícones sejam imagens */
-            width: 12rem; /* Ajuste para o tamanho desejado */
+            width: 14rem; /* Ajuste para o tamanho desejado */
             height: auto; /* Mantém a proporção */
             transform: scale(0.8); /* Reduz o tamanho em 20% */            
         }
@@ -88,12 +88,12 @@
             justify-content: center;
             margin-left: 6.1rem;
             gap: 2.2rem;
-            margin-top: -7.2rem;
+            margin-top: -8.3rem;
             animation: pulse 1.2s infinite;
 
         }
         .icones1 img { /* Supondo que os ícones sejam imagens */
-            width: 5.8rem; /* Ajuste para o tamanho desejado */
+            width: 7rem; /* Ajuste para o tamanho desejado */
             height: auto; /* Mantém a proporção */
             transform: scale(0.8); /* Reduz o tamanho em 20% */            
         }
